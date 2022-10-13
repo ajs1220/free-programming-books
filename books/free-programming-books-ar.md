@@ -21,6 +21,7 @@
 * [Scratch](#scratch)
 * [Security](#security)
 * [SEO](#seo)
+* [Software Construction](#software-construction)
 * [SQL](#sql)
     * [PostgreSQL](#postgresql)
 * [UI/UX](#uiux)
@@ -141,6 +142,8 @@
 
 * [تحسين محركات البحث SEO - دليل المبتدئين](https://librebooks.org/search-engine-optimization-seo-starter-guide-ar/) - The Google
 
+### Software Construction
+                                    Steve McConnell (PDF) - (https://www.pdfdrive.com/code-complete-a-practical-handbook-of-software-construction-d181977496.html)
 
 ### SQL
 
