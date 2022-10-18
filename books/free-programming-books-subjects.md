@@ -20,6 +20,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Containers](#containers)
 * [Database](#database)
 * [Datamining](#datamining)
+* [Data Analysis CheatSheet](#data-analysis-cheatsheet)
 * [Game Development](#game-development)
 * [Graphical user interfaces](#graphical-user-interfaces)
 * [Graphics Programming](#graphics-programming)
@@ -271,7 +272,9 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/) - Pulkit Sharma
 * [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
 
+### Data Analysis
 
+* [Python for Data Science CheatSheet](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) - Data Camp (PDF)
 ### Game Development
 
 * [2D Game Development: From Zero To Hero](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) (:construction: *in process*)
